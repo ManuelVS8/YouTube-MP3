@@ -1,0 +1,22 @@
+﻿DESCARGADOR YOUTUBE - Instrucciones
+===================================
+
+INSTALAR (solo la primera vez)
+1. Descomprime esta carpeta donde quieras que se quede (por ejemplo, en Documentos).
+   No la borres después: el programa se ejecuta desde aquí.
+2. Haz doble clic en "instalar.bat".
+   - Si Windows muestra "Windows protegió su PC": pulsa "Más información" > "Ejecutar de todas formas".
+   - Si no tienes Python, lo instala solo (gratis). Si te pide volver a ejecutar el instalador, hazlo.
+3. Al terminar se crea el acceso directo "Descargador YouTube" en el escritorio y se abre el programa.
+
+USAR
+1. Copia el enlace del vídeo en YouTube y pulsa "Pegar".
+2. Elige "Vídeo" (MP4) o "Solo audio" (MP3) y la calidad: Alta, Media o Baja.
+3. Opcional: marca "Descargar solo un tramo" e indica Desde / Hasta (min:seg, por ejemplo 1:30).
+4. Pulsa "Descargar". Los archivos se guardan en Descargas\YouTube (se puede cambiar).
+
+SI ALGÚN DÍA DEJA DE DESCARGAR
+YouTube cambia a menudo. Pulsa "Actualizar motor" (abajo a la derecha) y vuelve a probar.
+
+Uso responsable: descarga solo vídeos propios, con licencia Creative Commons
+o con permiso de su autor.
